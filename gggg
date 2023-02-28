@@ -1,6 +1,14 @@
- ~/blog_pledin$ git checkout -b cambios
- Switched to a new branch 'cambios'
- 
- ~/blog_pledin$ commit -am "Cambios realizados" 
- [cambios af3bf5c] Cambios realizados
-  1 file changed, 1 insertion(+), 1 deletion(-)
+ ~/blog_pledin$ git push origin cambios
+ Enumerating objects: 5, done.
+ Counting objects: 100% (5/5), done.
+ Compressing objects: 100% (3/3), done.
+ Writing objects: 100% (3/3), 304 bytes | 304.00 KiB/s, done.
+ Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+ remote: 
+ remote: Create a pull request for 'cambios' on GitHub by visiting:
+ remote:      https://github.com/pledin-staticman/blog_pledin/pull/new/cambios
+ remote: 
+ To github.com:pledin-staticman/blog_pledin.git
+  * [new branch]      cambios -> cambios
+  
