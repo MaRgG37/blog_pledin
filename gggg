@@ -1,2 +1,6 @@
- $ git clone git@github.com:MaRgG37/blog_pledin.git
+ ~/blog_pledin$ git checkout -b cambios
+ Switched to a new branch 'cambios'
  
+ ~/blog_pledin$ commit -am "Cambios realizados" 
+ [cambios af3bf5c] Cambios realizados
+  1 file changed, 1 insertion(+), 1 deletion(-)
